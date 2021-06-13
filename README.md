@@ -37,3 +37,15 @@ $ node src/index.js
 # Usa o Insomnia para testar
 
 ```
+
+
+## 🦸 Autor
+
+
+ <img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/59391514?s=460&u=25ceafbf07099dc692e22874253f979f717ad7c0&v=4" width="100px;" alt="Guel de Almeida"/>
+ <br />
+ <sub><b>Miguel Almeida</b></sub></a>🚀
+
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guel-almeida-2217271ab/)](https://www.linkedin.com/in/guel-almeida-2217271ab/) 
+[![Gmail Badge](https://img.shields.io/badge/-guelgaietaalmeida@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guelgaietaalmeida@gmail.com)](mailto:guelgaietaalmeida@gmail.com)
+

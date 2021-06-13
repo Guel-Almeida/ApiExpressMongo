@@ -1,4 +1,4 @@
-/*const express = require("express");
+const express = require("express");
 
 const User = require("../models/users")
 
@@ -15,4 +15,3 @@ router.post("/register", async (req,res)=>{
 })
 
 module.exports = app => app.use('auth', router);
-*/
